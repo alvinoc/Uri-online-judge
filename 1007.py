@@ -1,0 +1,6 @@
+A = int(input())
+B = int(input())
+C = int(input())
+D = int(input())
+DIFERENCA = ((int(A)) * (int(B))) - ((int(C)) * (int(D)))
+print("DIFERENCA = %d"%DIFERENCA)

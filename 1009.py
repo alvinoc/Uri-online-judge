@@ -1,0 +1,5 @@
+NAME = str(input())
+FIX_SALARY = float(input())
+SALES = float(input())
+TOTAL = float(FIX_SALARY) + (float(SALES) * 0.15)
+print("TOTAL = R$ %0.2f"%TOTAL)
